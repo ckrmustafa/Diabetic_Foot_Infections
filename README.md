@@ -14,7 +14,7 @@ This RShiny application provides a comprehensive pipeline for machine learning a
 4. The application will automatically check and install missing packages defined in `global.R`.
 
 ## Citation
-If you use this software, please cite it as follows:
+If you use this software, please cite it as follows: doi: 10.5281/zenodo.18147817
 
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
