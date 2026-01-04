@@ -15,3 +15,15 @@ This RShiny application provides a comprehensive pipeline for machine learning a
 
 ## Citation
 If you use this software, please cite it as follows:
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Cakir"
+  given-names: "Mustafa"
+  orcid: "https://orcid.org/0000-0002-1794-9242"
+title: "Advanced ML Analyzer: RShiny Application for Automated Machine Learning and XAI"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXX # Zenodo DOI aldıktan sonra burayı güncelleyin
+date-released: 2026-01-04
+url: "https://github.com/kullaniciadi/repo-adi"
