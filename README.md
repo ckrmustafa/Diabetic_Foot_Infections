@@ -24,6 +24,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-1794-9242"
 title: "Advanced ML Analyzer: RShiny Application for Automated Machine Learning and XAI"
 version: 1.0.0
-doi: 10.5281/zenodo.XXXXX # Zenodo DOI aldıktan sonra burayı güncelleyin
+doi: 10.5281/zenodo.18147817
 date-released: 2026-01-04
 url: "https://github.com/ckrmustafa/Diabetic_Foot_Infections"
